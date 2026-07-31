@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# .NET build output
+src/**/bin/
+src/**/obj/
+
+# User secrets / local config
+src/**/appsettings.Development.json
+*.user
+
+# OS
+.DS_Store
+Thumbs.db

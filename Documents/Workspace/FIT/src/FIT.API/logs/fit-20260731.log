@@ -1,0 +1,1075 @@
+2026-07-31 00:45:41.955 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 00:45:41.976 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 00:45:42.878 +05:30 [INF] Received HTTP response headers after 902.5943ms - 200
+2026-07-31 00:45:42.878 +05:30 [INF] End processing HTTP request after 923.78ms - 200
+2026-07-31 00:45:43.156 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1209.6442 ms
+2026-07-31 00:52:59.158 +05:30 [INF] HTTP GET /api/dashboard responded 401 in 154.7790 ms
+2026-07-31 10:10:57.626 +05:30 [INF] HTTP POST /api/auth/login responded 200 in 69.3720 ms
+2026-07-31 10:10:57.716 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 10:10:57.716 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 10:10:59.530 +05:30 [INF] Received HTTP response headers after 1813.4327ms - 200
+2026-07-31 10:10:59.530 +05:30 [INF] End processing HTTP request after 1814.209ms - 200
+2026-07-31 10:10:59.714 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 2003.2157 ms
+2026-07-31 11:10:01.261 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 11:10:01.263 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 11:10:02.585 +05:30 [INF] Received HTTP response headers after 1321.7693ms - 200
+2026-07-31 11:10:02.586 +05:30 [INF] End processing HTTP request after 1324.935ms - 200
+2026-07-31 11:10:02.813 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1561.9312 ms
+2026-07-31 12:40:00.892 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:40:00.893 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:40:02.605 +05:30 [INF] Received HTTP response headers after 1711.8905ms - 200
+2026-07-31 12:40:02.606 +05:30 [INF] End processing HTTP request after 1713.7446ms - 200
+2026-07-31 12:40:02.918 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 2031.1540 ms
+2026-07-31 12:40:05.961 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:40:05.961 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:40:06.969 +05:30 [INF] Received HTTP response headers after 1007.6ms - 200
+2026-07-31 12:40:06.969 +05:30 [INF] End processing HTTP request after 1008.2455ms - 200
+2026-07-31 12:40:07.280 +05:30 [INF] HTTP GET /api/issues responded 200 in 1329.6884 ms
+2026-07-31 12:42:17.065 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:17.065 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:18.390 +05:30 [INF] Received HTTP response headers after 1324.8852ms - 200
+2026-07-31 12:42:18.391 +05:30 [INF] End processing HTTP request after 1325.8561ms - 200
+2026-07-31 12:42:19.147 +05:30 [INF] HTTP GET /api/issues responded 200 in 2084.0416 ms
+2026-07-31 12:42:20.950 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:20.950 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:21.411 +05:30 [INF] Received HTTP response headers after 461.0158ms - 200
+2026-07-31 12:42:21.411 +05:30 [INF] End processing HTTP request after 461.6278ms - 200
+2026-07-31 12:42:21.797 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 848.7702 ms
+2026-07-31 12:42:50.910 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:50.910 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:42:51.614 +05:30 [INF] Received HTTP response headers after 704.6661ms - 200
+2026-07-31 12:42:51.615 +05:30 [INF] End processing HTTP request after 705.5304ms - 200
+2026-07-31 12:42:51.919 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1009.5589 ms
+2026-07-31 12:43:10.125 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:43:10.126 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:43:10.667 +05:30 [INF] Received HTTP response headers after 540.6004ms - 200
+2026-07-31 12:43:10.667 +05:30 [INF] End processing HTTP request after 541.7253ms - 200
+2026-07-31 12:43:11.001 +05:30 [INF] HTTP GET /api/issues responded 200 in 877.6959 ms
+2026-07-31 12:45:49.848 +05:30 [INF] Application is shutting down...
+2026-07-31 12:45:55.289 +05:30 [WRN] The WebRootPath was not found: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API/wwwroot. Static files may be unavailable.
+2026-07-31 12:45:55.385 +05:30 [INF] Now listening on: http://localhost:5062
+2026-07-31 12:45:55.386 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-31 12:45:55.386 +05:30 [INF] Hosting environment: Production
+2026-07-31 12:45:55.386 +05:30 [INF] Content root path: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API
+2026-07-31 12:46:14.702 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:14.703 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:15.543 +05:30 [INF] Received HTTP response headers after 837.6491ms - 200
+2026-07-31 12:46:15.556 +05:30 [INF] End processing HTTP request after 856.7809ms - 200
+2026-07-31 12:46:15.720 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1286.4044 ms
+2026-07-31 12:46:16.827 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:16.828 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:17.719 +05:30 [INF] Received HTTP response headers after 891.605ms - 200
+2026-07-31 12:46:17.720 +05:30 [INF] End processing HTTP request after 892.6737ms - 200
+2026-07-31 12:46:17.992 +05:30 [INF] HTTP GET /api/issues responded 200 in 1245.1412 ms
+2026-07-31 12:46:49.973 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:49.973 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:46:50.593 +05:30 [INF] Received HTTP response headers after 619.4004ms - 200
+2026-07-31 12:46:50.594 +05:30 [INF] End processing HTTP request after 620.5355ms - 200
+2026-07-31 12:46:50.760 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 792.7681 ms
+2026-07-31 12:49:30.586 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:30.586 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:31.432 +05:30 [INF] Received HTTP response headers after 845.6295ms - 200
+2026-07-31 12:49:31.433 +05:30 [INF] End processing HTTP request after 846.9922ms - 200
+2026-07-31 12:49:31.818 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1236.5034 ms
+2026-07-31 12:49:32.773 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:32.773 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:32.824 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:32.824 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:33.265 +05:30 [INF] Received HTTP response headers after 491.778ms - 200
+2026-07-31 12:49:33.266 +05:30 [INF] End processing HTTP request after 492.852ms - 200
+2026-07-31 12:49:33.466 +05:30 [INF] HTTP GET /api/issues responded 200 in 695.4614 ms
+2026-07-31 12:49:33.477 +05:30 [INF] Received HTTP response headers after 652.1081ms - 200
+2026-07-31 12:49:33.477 +05:30 [INF] End processing HTTP request after 652.706ms - 200
+2026-07-31 12:49:33.683 +05:30 [INF] HTTP GET /api/issues responded 200 in 861.9998 ms
+2026-07-31 12:49:37.329 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:37.330 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:49:37.625 +05:30 [INF] Received HTTP response headers after 295.6092ms - 200
+2026-07-31 12:49:37.626 +05:30 [INF] End processing HTTP request after 296.3193ms - 200
+2026-07-31 12:49:37.627 +05:30 [INF] HTTP GET /api/issues responded 200 in 298.3454 ms
+2026-07-31 12:49:48.920 +05:30 [INF] Application is shutting down...
+2026-07-31 12:49:51.406 +05:30 [WRN] The WebRootPath was not found: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API/wwwroot. Static files may be unavailable.
+2026-07-31 12:49:51.500 +05:30 [INF] Now listening on: http://localhost:5062
+2026-07-31 12:49:51.501 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-31 12:49:51.501 +05:30 [INF] Hosting environment: Production
+2026-07-31 12:49:51.501 +05:30 [INF] Content root path: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API
+2026-07-31 12:50:15.092 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:15.092 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:15.094 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:15.094 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:15.810 +05:30 [INF] Received HTTP response headers after 714.381ms - 200
+2026-07-31 12:50:15.819 +05:30 [INF] End processing HTTP request after 728.0029ms - 200
+2026-07-31 12:50:15.874 +05:30 [INF] Received HTTP response headers after 779.7212ms - 200
+2026-07-31 12:50:15.874 +05:30 [INF] End processing HTTP request after 783.0413ms - 200
+2026-07-31 12:50:16.158 +05:30 [INF] HTTP GET /api/issues responded 200 in 1249.5735 ms
+2026-07-31 12:50:16.158 +05:30 [INF] HTTP GET /api/issues responded 200 in 1249.5688 ms
+2026-07-31 12:50:20.342 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:20.342 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:20.824 +05:30 [INF] Received HTTP response headers after 482.3263ms - 200
+2026-07-31 12:50:20.825 +05:30 [INF] End processing HTTP request after 483.6392ms - 200
+2026-07-31 12:50:21.088 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 765.0629 ms
+2026-07-31 12:50:21.522 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:21.522 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:22.053 +05:30 [INF] Received HTTP response headers after 530.8442ms - 200
+2026-07-31 12:50:22.054 +05:30 [INF] End processing HTTP request after 531.915ms - 200
+2026-07-31 12:50:22.057 +05:30 [INF] HTTP GET /api/issues responded 200 in 542.0926 ms
+2026-07-31 12:50:32.367 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.367 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.367 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.367 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.787 +05:30 [INF] Received HTTP response headers after 419.447ms - 200
+2026-07-31 12:50:32.787 +05:30 [INF] End processing HTTP request after 420.2742ms - 200
+2026-07-31 12:50:32.897 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.898 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.909 +05:30 [INF] Received HTTP response headers after 541.019ms - 200
+2026-07-31 12:50:32.909 +05:30 [INF] End processing HTTP request after 542.0773ms - 200
+2026-07-31 12:50:32.912 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:32.912 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:33.192 +05:30 [INF] Received HTTP response headers after 293.6231ms - 200
+2026-07-31 12:50:33.192 +05:30 [INF] End processing HTTP request after 294.7925ms - 200
+2026-07-31 12:50:33.194 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:33.194 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:33.290 +05:30 [INF] Received HTTP response headers after 377.882ms - 200
+2026-07-31 12:50:33.291 +05:30 [INF] End processing HTTP request after 378.9477ms - 200
+2026-07-31 12:50:33.309 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:33.309 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:33.476 +05:30 [INF] Received HTTP response headers after 281.9927ms - 200
+2026-07-31 12:50:33.476 +05:30 [INF] End processing HTTP request after 282.2108ms - 200
+2026-07-31 12:50:33.493 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:33.493 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:33.939 +05:30 [INF] Received HTTP response headers after 446.5256ms - 200
+2026-07-31 12:50:33.940 +05:30 [INF] End processing HTTP request after 447.1675ms - 200
+2026-07-31 12:50:33.946 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1589.1997 ms
+2026-07-31 12:50:34.158 +05:30 [INF] Received HTTP response headers after 848.6336ms - 200
+2026-07-31 12:50:34.158 +05:30 [INF] End processing HTTP request after 849.9273ms - 200
+2026-07-31 12:50:34.196 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1841.7986 ms
+2026-07-31 12:50:36.687 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:36.687 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:37.643 +05:30 [INF] Received HTTP response headers after 956.2932ms - 200
+2026-07-31 12:50:37.644 +05:30 [INF] End processing HTTP request after 956.7629ms - 200
+2026-07-31 12:50:37.644 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:37.644 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:38.437 +05:30 [INF] Received HTTP response headers after 792.917ms - 200
+2026-07-31 12:50:38.438 +05:30 [INF] End processing HTTP request after 793.6327ms - 200
+2026-07-31 12:50:38.441 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:38.441 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:39.193 +05:30 [INF] Received HTTP response headers after 751.7317ms - 200
+2026-07-31 12:50:39.194 +05:30 [INF] End processing HTTP request after 753.1473ms - 200
+2026-07-31 12:50:39.203 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:39.203 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:40.248 +05:30 [INF] Received HTTP response headers after 1045.1816ms - 204
+2026-07-31 12:50:40.249 +05:30 [INF] End processing HTTP request after 1046.4159ms - 204
+2026-07-31 12:50:40.250 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 3579.3400 ms
+2026-07-31 12:50:41.283 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:41.283 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:41.283 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:41.283 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:41.698 +05:30 [INF] Received HTTP response headers after 414.7578ms - 200
+2026-07-31 12:50:41.698 +05:30 [INF] End processing HTTP request after 415.603ms - 200
+2026-07-31 12:50:41.801 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:41.802 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:42.100 +05:30 [INF] Received HTTP response headers after 297.4824ms - 200
+2026-07-31 12:50:42.100 +05:30 [INF] End processing HTTP request after 299.1515ms - 200
+2026-07-31 12:50:42.101 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:42.101 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:42.216 +05:30 [INF] Received HTTP response headers after 932.6699ms - 200
+2026-07-31 12:50:42.216 +05:30 [INF] End processing HTTP request after 933.558ms - 200
+2026-07-31 12:50:42.219 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:42.220 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:42.458 +05:30 [INF] Received HTTP response headers after 356.8602ms - 200
+2026-07-31 12:50:42.458 +05:30 [INF] End processing HTTP request after 357.732ms - 200
+2026-07-31 12:50:42.460 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:42.460 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:42.606 +05:30 [INF] Received HTTP response headers after 385.9055ms - 200
+2026-07-31 12:50:42.607 +05:30 [INF] End processing HTTP request after 388.1919ms - 200
+2026-07-31 12:50:42.608 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:42.608 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:42.835 +05:30 [INF] Received HTTP response headers after 374.4585ms - 200
+2026-07-31 12:50:42.835 +05:30 [INF] End processing HTTP request after 375.7972ms - 200
+2026-07-31 12:50:42.836 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1555.4433 ms
+2026-07-31 12:50:42.854 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:42.854 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:43.358 +05:30 [INF] Received HTTP response headers after 503.2173ms - 200
+2026-07-31 12:50:43.358 +05:30 [INF] End processing HTTP request after 504.3113ms - 200
+2026-07-31 12:50:43.360 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:43.361 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:43.372 +05:30 [INF] Received HTTP response headers after 763.7166ms - 200
+2026-07-31 12:50:43.372 +05:30 [INF] End processing HTTP request after 764.2517ms - 200
+2026-07-31 12:50:43.373 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 2091.7903 ms
+2026-07-31 12:50:43.641 +05:30 [INF] Received HTTP response headers after 279.7864ms - 200
+2026-07-31 12:50:43.641 +05:30 [INF] End processing HTTP request after 280.8154ms - 200
+2026-07-31 12:50:43.642 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:43.642 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:44.408 +05:30 [INF] Received HTTP response headers after 766.1274ms - 200
+2026-07-31 12:50:44.408 +05:30 [INF] End processing HTTP request after 766.843ms - 200
+2026-07-31 12:50:44.409 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:44.409 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:44.775 +05:30 [INF] Received HTTP response headers after 365.3145ms - 200
+2026-07-31 12:50:44.776 +05:30 [INF] End processing HTTP request after 366.4602ms - 200
+2026-07-31 12:50:44.776 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1924.7706 ms
+2026-07-31 12:50:49.177 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:49.177 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:50:49.657 +05:30 [INF] Received HTTP response headers after 479.7642ms - 200
+2026-07-31 12:50:49.657 +05:30 [INF] End processing HTTP request after 480.3268ms - 200
+2026-07-31 12:50:49.793 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 617.3925 ms
+2026-07-31 12:50:53.312 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.312 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.314 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.314 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.881 +05:30 [INF] Received HTTP response headers after 566.707ms - 200
+2026-07-31 12:50:53.881 +05:30 [INF] End processing HTTP request after 567.4207ms - 200
+2026-07-31 12:50:53.884 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.884 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.922 +05:30 [INF] Received HTTP response headers after 609.8902ms - 200
+2026-07-31 12:50:53.922 +05:30 [INF] End processing HTTP request after 610.463ms - 200
+2026-07-31 12:50:53.924 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:53.924 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:54.200 +05:30 [INF] Received HTTP response headers after 315.804ms - 200
+2026-07-31 12:50:54.200 +05:30 [INF] Received HTTP response headers after 276.0381ms - 200
+2026-07-31 12:50:54.200 +05:30 [INF] End processing HTTP request after 316.5764ms - 200
+2026-07-31 12:50:54.200 +05:30 [INF] End processing HTTP request after 276.7523ms - 200
+2026-07-31 12:50:54.201 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:54.201 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:54.201 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:54.201 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:54.490 +05:30 [INF] Received HTTP response headers after 288.8454ms - 200
+2026-07-31 12:50:54.491 +05:30 [INF] End processing HTTP request after 289.5621ms - 200
+2026-07-31 12:50:54.491 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1181.0442 ms
+2026-07-31 12:50:54.525 +05:30 [INF] Received HTTP response headers after 323.1521ms - 200
+2026-07-31 12:50:54.525 +05:30 [INF] End processing HTTP request after 323.8712ms - 200
+2026-07-31 12:50:54.525 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:54.525 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:54.923 +05:30 [INF] Received HTTP response headers after 397.4673ms - 200
+2026-07-31 12:50:54.923 +05:30 [INF] End processing HTTP request after 397.6744ms - 200
+2026-07-31 12:50:54.923 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1610.4851 ms
+2026-07-31 12:50:57.413 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:57.413 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:58.099 +05:30 [INF] Received HTTP response headers after 685.0953ms - 200
+2026-07-31 12:50:58.099 +05:30 [INF] End processing HTTP request after 685.9865ms - 200
+2026-07-31 12:50:58.101 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:58.101 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:50:58.671 +05:30 [INF] Received HTTP response headers after 568.2312ms - 200
+2026-07-31 12:50:58.671 +05:30 [INF] End processing HTTP request after 570.247ms - 200
+2026-07-31 12:50:58.671 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:58.672 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:50:59.106 +05:30 [INF] Received HTTP response headers after 434.3834ms - 200
+2026-07-31 12:50:59.107 +05:30 [INF] End processing HTTP request after 435.3964ms - 200
+2026-07-31 12:50:59.108 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:59.109 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:50:59.827 +05:30 [INF] Received HTTP response headers after 717.6734ms - 204
+2026-07-31 12:50:59.827 +05:30 [INF] End processing HTTP request after 719.5462ms - 204
+2026-07-31 12:50:59.828 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 2419.6245 ms
+2026-07-31 12:51:00.851 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:00.851 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:00.854 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:00.854 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:01.314 +05:30 [INF] Received HTTP response headers after 459.6101ms - 200
+2026-07-31 12:51:01.314 +05:30 [INF] End processing HTTP request after 460.3496ms - 200
+2026-07-31 12:51:01.316 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:01.316 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:01.713 +05:30 [INF] Received HTTP response headers after 396.6335ms - 200
+2026-07-31 12:51:01.713 +05:30 [INF] End processing HTTP request after 397.2078ms - 200
+2026-07-31 12:51:01.713 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:01.713 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:01.738 +05:30 [INF] Received HTTP response headers after 886.8114ms - 200
+2026-07-31 12:51:01.738 +05:30 [INF] End processing HTTP request after 887.559ms - 200
+2026-07-31 12:51:01.740 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:01.740 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:02.106 +05:30 [INF] Received HTTP response headers after 392.4618ms - 200
+2026-07-31 12:51:02.106 +05:30 [INF] End processing HTTP request after 392.757ms - 200
+2026-07-31 12:51:02.107 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:02.107 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:02.258 +05:30 [INF] Received HTTP response headers after 518.6935ms - 200
+2026-07-31 12:51:02.259 +05:30 [INF] End processing HTTP request after 519.2283ms - 200
+2026-07-31 12:51:02.259 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:02.259 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:02.430 +05:30 [INF] Received HTTP response headers after 323.5388ms - 200
+2026-07-31 12:51:02.431 +05:30 [INF] End processing HTTP request after 324.4479ms - 200
+2026-07-31 12:51:02.435 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1584.2524 ms
+2026-07-31 12:51:02.456 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:02.456 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:02.808 +05:30 [INF] Received HTTP response headers after 351.2274ms - 200
+2026-07-31 12:51:02.808 +05:30 [INF] End processing HTTP request after 351.9234ms - 200
+2026-07-31 12:51:02.860 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:02.861 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:03.039 +05:30 [INF] Received HTTP response headers after 779.9974ms - 200
+2026-07-31 12:51:03.040 +05:30 [INF] End processing HTTP request after 780.7506ms - 200
+2026-07-31 12:51:03.042 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 2193.0850 ms
+2026-07-31 12:51:03.140 +05:30 [INF] Received HTTP response headers after 279.3133ms - 200
+2026-07-31 12:51:03.140 +05:30 [INF] End processing HTTP request after 279.8492ms - 200
+2026-07-31 12:51:03.141 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:03.141 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:03.434 +05:30 [INF] Received HTTP response headers after 292.9561ms - 200
+2026-07-31 12:51:03.434 +05:30 [INF] End processing HTTP request after 293.4665ms - 200
+2026-07-31 12:51:03.435 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:03.436 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:03.810 +05:30 [INF] Received HTTP response headers after 373.9799ms - 200
+2026-07-31 12:51:03.810 +05:30 [INF] End processing HTTP request after 375.3046ms - 200
+2026-07-31 12:51:03.810 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1359.3626 ms
+2026-07-31 12:51:04.084 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:51:04.084 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:51:04.551 +05:30 [INF] Received HTTP response headers after 466.6485ms - 200
+2026-07-31 12:51:04.551 +05:30 [INF] End processing HTTP request after 467.3301ms - 200
+2026-07-31 12:51:04.966 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 884.1272 ms
+2026-07-31 12:51:09.047 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.047 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.048 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.048 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.465 +05:30 [INF] Received HTTP response headers after 417.836ms - 200
+2026-07-31 12:51:09.466 +05:30 [INF] End processing HTTP request after 418.4589ms - 200
+2026-07-31 12:51:09.467 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.467 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.597 +05:30 [INF] Received HTTP response headers after 548.336ms - 200
+2026-07-31 12:51:09.597 +05:30 [INF] End processing HTTP request after 548.8397ms - 200
+2026-07-31 12:51:09.599 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.600 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:51:09.772 +05:30 [INF] Received HTTP response headers after 304.603ms - 200
+2026-07-31 12:51:09.772 +05:30 [INF] End processing HTTP request after 305.103ms - 200
+2026-07-31 12:51:09.772 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:09.772 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:09.888 +05:30 [INF] Received HTTP response headers after 287.5825ms - 200
+2026-07-31 12:51:09.888 +05:30 [INF] End processing HTTP request after 288.8436ms - 200
+2026-07-31 12:51:09.888 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:09.888 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:51:10.097 +05:30 [INF] Received HTTP response headers after 324.0393ms - 200
+2026-07-31 12:51:10.097 +05:30 [INF] End processing HTTP request after 324.6441ms - 200
+2026-07-31 12:51:10.098 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1051.7218 ms
+2026-07-31 12:51:10.181 +05:30 [INF] Received HTTP response headers after 292.282ms - 200
+2026-07-31 12:51:10.181 +05:30 [INF] End processing HTTP request after 292.6452ms - 200
+2026-07-31 12:51:10.181 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:10.181 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:51:10.478 +05:30 [INF] Received HTTP response headers after 296.6126ms - 200
+2026-07-31 12:51:10.478 +05:30 [INF] End processing HTTP request after 297.0757ms - 200
+2026-07-31 12:51:10.479 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1431.2202 ms
+2026-07-31 12:56:53.507 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:53.508 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:54.705 +05:30 [INF] Received HTTP response headers after 1196.7867ms - 200
+2026-07-31 12:56:54.706 +05:30 [INF] End processing HTTP request after 1198.576ms - 200
+2026-07-31 12:56:54.757 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:54.757 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:55.052 +05:30 [INF] Received HTTP response headers after 295.0719ms - 200
+2026-07-31 12:56:55.052 +05:30 [INF] End processing HTTP request after 296.111ms - 200
+2026-07-31 12:56:55.053 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:55.053 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:55.307 +05:30 [INF] Received HTTP response headers after 253.9143ms - 200
+2026-07-31 12:56:55.308 +05:30 [INF] End processing HTTP request after 254.7395ms - 200
+2026-07-31 12:56:55.309 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:56:55.309 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:56:56.528 +05:30 [INF] Received HTTP response headers after 1218.8318ms - 204
+2026-07-31 12:56:56.528 +05:30 [INF] End processing HTTP request after 1219.4419ms - 204
+2026-07-31 12:56:56.532 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:56.532 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:56.999 +05:30 [INF] Received HTTP response headers after 467.6242ms - 201
+2026-07-31 12:56:57.000 +05:30 [INF] End processing HTTP request after 468.1487ms - 201
+2026-07-31 12:56:57.001 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 3496.2498 ms
+2026-07-31 12:56:58.026 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.026 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.029 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.030 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.376 +05:30 [INF] Received HTTP response headers after 349.7809ms - 200
+2026-07-31 12:56:58.376 +05:30 [INF] End processing HTTP request after 350.6497ms - 200
+2026-07-31 12:56:58.456 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.456 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:58.831 +05:30 [INF] Received HTTP response headers after 374.958ms - 200
+2026-07-31 12:56:58.832 +05:30 [INF] End processing HTTP request after 375.825ms - 200
+2026-07-31 12:56:58.832 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:58.832 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:59.160 +05:30 [INF] Received HTTP response headers after 1130.6094ms - 200
+2026-07-31 12:56:59.161 +05:30 [INF] End processing HTTP request after 1131.5002ms - 200
+2026-07-31 12:56:59.186 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:59.186 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:56:59.389 +05:30 [INF] Received HTTP response headers after 556.8437ms - 200
+2026-07-31 12:56:59.390 +05:30 [INF] End processing HTTP request after 557.5244ms - 200
+2026-07-31 12:56:59.406 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1382.1833 ms
+2026-07-31 12:56:59.629 +05:30 [INF] Received HTTP response headers after 443.1097ms - 200
+2026-07-31 12:56:59.629 +05:30 [INF] End processing HTTP request after 443.7203ms - 200
+2026-07-31 12:56:59.630 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:56:59.630 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:00.025 +05:30 [INF] Received HTTP response headers after 395.0632ms - 200
+2026-07-31 12:57:00.025 +05:30 [INF] End processing HTTP request after 395.7896ms - 200
+2026-07-31 12:57:00.026 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:00.027 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:00.454 +05:30 [INF] Received HTTP response headers after 426.9287ms - 200
+2026-07-31 12:57:00.454 +05:30 [INF] End processing HTTP request after 427.698ms - 200
+2026-07-31 12:57:00.455 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 2426.8367 ms
+2026-07-31 12:57:00.466 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:00.467 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:00.941 +05:30 [INF] Received HTTP response headers after 474.4527ms - 200
+2026-07-31 12:57:00.941 +05:30 [INF] End processing HTTP request after 474.9332ms - 200
+2026-07-31 12:57:01.257 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:01.258 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:01.988 +05:30 [INF] Received HTTP response headers after 729.5047ms - 200
+2026-07-31 12:57:01.988 +05:30 [INF] End processing HTTP request after 730.8959ms - 200
+2026-07-31 12:57:01.989 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:01.989 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:02.323 +05:30 [INF] Received HTTP response headers after 334.0757ms - 200
+2026-07-31 12:57:02.323 +05:30 [INF] End processing HTTP request after 334.8446ms - 200
+2026-07-31 12:57:02.325 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:02.325 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:02.656 +05:30 [INF] Received HTTP response headers after 330.5975ms - 200
+2026-07-31 12:57:02.656 +05:30 [INF] End processing HTTP request after 331.4536ms - 200
+2026-07-31 12:57:02.657 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 2190.8230 ms
+2026-07-31 12:57:13.456 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:13.456 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:13.904 +05:30 [INF] Received HTTP response headers after 447.783ms - 200
+2026-07-31 12:57:13.905 +05:30 [INF] End processing HTTP request after 448.6662ms - 200
+2026-07-31 12:57:13.917 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:13.917 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:14.399 +05:30 [INF] Received HTTP response headers after 481.8828ms - 200
+2026-07-31 12:57:14.400 +05:30 [INF] End processing HTTP request after 482.7467ms - 200
+2026-07-31 12:57:14.401 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:14.402 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:14.789 +05:30 [INF] Received HTTP response headers after 386.7608ms - 200
+2026-07-31 12:57:14.790 +05:30 [INF] End processing HTTP request after 389.3897ms - 200
+2026-07-31 12:57:14.790 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:14.791 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:15.412 +05:30 [INF] Received HTTP response headers after 620.7236ms - 204
+2026-07-31 12:57:15.412 +05:30 [INF] End processing HTTP request after 621.7055ms - 204
+2026-07-31 12:57:15.413 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:15.413 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:16.258 +05:30 [INF] Received HTTP response headers after 844.5305ms - 201
+2026-07-31 12:57:16.258 +05:30 [INF] End processing HTTP request after 845.277ms - 201
+2026-07-31 12:57:16.258 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 2804.0065 ms
+2026-07-31 12:57:17.281 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.282 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.283 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.284 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.713 +05:30 [INF] Received HTTP response headers after 431.4607ms - 200
+2026-07-31 12:57:17.714 +05:30 [INF] End processing HTTP request after 432.2692ms - 200
+2026-07-31 12:57:17.717 +05:30 [INF] Received HTTP response headers after 432.9949ms - 200
+2026-07-31 12:57:17.717 +05:30 [INF] End processing HTTP request after 433.3739ms - 200
+2026-07-31 12:57:17.718 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.718 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.718 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:17.718 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:18.023 +05:30 [INF] Received HTTP response headers after 304.3804ms - 200
+2026-07-31 12:57:18.023 +05:30 [INF] End processing HTTP request after 304.8802ms - 200
+2026-07-31 12:57:18.023 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:18.023 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:18.025 +05:30 [INF] Received HTTP response headers after 307.1986ms - 200
+2026-07-31 12:57:18.025 +05:30 [INF] End processing HTTP request after 307.5977ms - 200
+2026-07-31 12:57:18.026 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:18.026 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:18.317 +05:30 [INF] Received HTTP response headers after 293.9176ms - 200
+2026-07-31 12:57:18.318 +05:30 [INF] End processing HTTP request after 294.4279ms - 200
+2026-07-31 12:57:18.318 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:18.319 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:18.328 +05:30 [INF] Received HTTP response headers after 302.2857ms - 200
+2026-07-31 12:57:18.328 +05:30 [INF] End processing HTTP request after 302.7322ms - 200
+2026-07-31 12:57:18.329 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1049.2066 ms
+2026-07-31 12:57:18.637 +05:30 [INF] Received HTTP response headers after 318.3881ms - 200
+2026-07-31 12:57:18.637 +05:30 [INF] End processing HTTP request after 319.0561ms - 200
+2026-07-31 12:57:18.639 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1355.8748 ms
+2026-07-31 12:57:18.651 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:18.651 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:19.039 +05:30 [INF] Received HTTP response headers after 387.9595ms - 200
+2026-07-31 12:57:19.039 +05:30 [INF] End processing HTTP request after 388.4841ms - 200
+2026-07-31 12:57:19.147 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:19.148 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:57:19.438 +05:30 [INF] Received HTTP response headers after 289.8188ms - 200
+2026-07-31 12:57:19.438 +05:30 [INF] End processing HTTP request after 290.5754ms - 200
+2026-07-31 12:57:19.438 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:19.439 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:57:20.338 +05:30 [INF] Received HTTP response headers after 899.388ms - 200
+2026-07-31 12:57:20.338 +05:30 [INF] End processing HTTP request after 899.9879ms - 200
+2026-07-31 12:57:20.339 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:20.339 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:57:20.671 +05:30 [INF] Received HTTP response headers after 331.4768ms - 200
+2026-07-31 12:57:20.671 +05:30 [INF] End processing HTTP request after 331.9756ms - 200
+2026-07-31 12:57:20.671 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 2021.3261 ms
+2026-07-31 12:57:22.778 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:57:22.778 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:57:23.299 +05:30 [INF] Received HTTP response headers after 520.7598ms - 200
+2026-07-31 12:57:23.299 +05:30 [INF] End processing HTTP request after 521.2557ms - 200
+2026-07-31 12:57:23.531 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 754.0129 ms
+2026-07-31 12:58:10.795 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:10.795 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:11.455 +05:30 [INF] Received HTTP response headers after 659.7543ms - 200
+2026-07-31 12:58:11.455 +05:30 [INF] End processing HTTP request after 660.2876ms - 200
+2026-07-31 12:58:11.811 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1016.2845 ms
+2026-07-31 12:58:43.583 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:43.583 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:43.668 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:43.669 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:58:44.060 +05:30 [INF] Received HTTP response headers after 476.7755ms - 200
+2026-07-31 12:58:44.060 +05:30 [INF] End processing HTTP request after 477.2255ms - 200
+2026-07-31 12:58:44.291 +05:30 [INF] HTTP GET /api/issues responded 200 in 709.1139 ms
+2026-07-31 12:58:44.980 +05:30 [INF] Received HTTP response headers after 1311.4707ms - 200
+2026-07-31 12:58:44.980 +05:30 [INF] End processing HTTP request after 1312.044ms - 200
+2026-07-31 12:58:44.982 +05:30 [INF] HTTP GET /api/issues responded 200 in 1315.1259 ms
+2026-07-31 12:58:48.130 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.130 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.130 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.130 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.531 +05:30 [INF] Received HTTP response headers after 400.8096ms - 200
+2026-07-31 12:58:48.532 +05:30 [INF] End processing HTTP request after 401.4811ms - 200
+2026-07-31 12:58:48.549 +05:30 [INF] Received HTTP response headers after 418.4508ms - 200
+2026-07-31 12:58:48.549 +05:30 [INF] End processing HTTP request after 419.0642ms - 200
+2026-07-31 12:58:48.570 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.570 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.643 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.644 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:58:48.938 +05:30 [INF] Received HTTP response headers after 368.2982ms - 200
+2026-07-31 12:58:48.939 +05:30 [INF] End processing HTTP request after 369.0897ms - 200
+2026-07-31 12:58:48.939 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:58:48.939 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:58:49.134 +05:30 [INF] Received HTTP response headers after 489.5311ms - 200
+2026-07-31 12:58:49.134 +05:30 [INF] End processing HTTP request after 490.5107ms - 200
+2026-07-31 12:58:49.134 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:58:49.134 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:58:49.300 +05:30 [INF] Received HTTP response headers after 360.1042ms - 200
+2026-07-31 12:58:49.303 +05:30 [INF] End processing HTTP request after 363.8961ms - 200
+2026-07-31 12:58:49.305 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1175.3482 ms
+2026-07-31 12:58:49.464 +05:30 [INF] Received HTTP response headers after 330.3412ms - 200
+2026-07-31 12:58:49.465 +05:30 [INF] End processing HTTP request after 330.6255ms - 200
+2026-07-31 12:58:49.465 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:58:49.465 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:58:49.784 +05:30 [INF] Received HTTP response headers after 318.7337ms - 200
+2026-07-31 12:58:49.784 +05:30 [INF] End processing HTTP request after 319.2415ms - 200
+2026-07-31 12:58:49.788 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1658.6117 ms
+2026-07-31 12:59:12.757 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:12.757 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:13.782 +05:30 [INF] Received HTTP response headers after 1024.9082ms - 200
+2026-07-31 12:59:13.782 +05:30 [INF] End processing HTTP request after 1025.326ms - 200
+2026-07-31 12:59:13.812 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:13.812 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:14.122 +05:30 [INF] Received HTTP response headers after 309.9303ms - 200
+2026-07-31 12:59:14.123 +05:30 [INF] End processing HTTP request after 310.5732ms - 200
+2026-07-31 12:59:14.123 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:14.123 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:14.512 +05:30 [INF] Received HTTP response headers after 388.585ms - 200
+2026-07-31 12:59:14.513 +05:30 [INF] End processing HTTP request after 389.3606ms - 200
+2026-07-31 12:59:14.513 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:14.514 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:15.249 +05:30 [INF] Received HTTP response headers after 735.3496ms - 204
+2026-07-31 12:59:15.249 +05:30 [INF] End processing HTTP request after 736.0282ms - 204
+2026-07-31 12:59:15.250 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:15.250 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:15.762 +05:30 [INF] Received HTTP response headers after 511.7125ms - 201
+2026-07-31 12:59:15.762 +05:30 [INF] End processing HTTP request after 512.5144ms - 201
+2026-07-31 12:59:15.765 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 3009.5294 ms
+2026-07-31 12:59:16.796 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:16.796 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:16.796 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:16.797 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:17.265 +05:30 [INF] Received HTTP response headers after 469.401ms - 200
+2026-07-31 12:59:17.266 +05:30 [INF] End processing HTTP request after 470.1052ms - 200
+2026-07-31 12:59:17.268 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:17.268 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:17.673 +05:30 [INF] Received HTTP response headers after 876.1521ms - 200
+2026-07-31 12:59:17.674 +05:30 [INF] End processing HTTP request after 877.9709ms - 200
+2026-07-31 12:59:17.814 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:17.814 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:18.015 +05:30 [INF] Received HTTP response headers after 746.4074ms - 200
+2026-07-31 12:59:18.015 +05:30 [INF] End processing HTTP request after 747.1884ms - 200
+2026-07-31 12:59:18.018 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:18.018 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:18.349 +05:30 [INF] Received HTTP response headers after 330.6497ms - 200
+2026-07-31 12:59:18.350 +05:30 [INF] End processing HTTP request after 331.3133ms - 200
+2026-07-31 12:59:18.351 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1556.3648 ms
+2026-07-31 12:59:18.590 +05:30 [INF] Received HTTP response headers after 775.6ms - 200
+2026-07-31 12:59:18.590 +05:30 [INF] End processing HTTP request after 776.2932ms - 200
+2026-07-31 12:59:18.591 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:18.591 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:19.013 +05:30 [INF] Received HTTP response headers after 422.3759ms - 200
+2026-07-31 12:59:19.014 +05:30 [INF] End processing HTTP request after 422.9786ms - 200
+2026-07-31 12:59:19.014 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:19.015 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:19.918 +05:30 [INF] Received HTTP response headers after 903.3314ms - 200
+2026-07-31 12:59:19.918 +05:30 [INF] End processing HTTP request after 903.9171ms - 200
+2026-07-31 12:59:19.920 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 3124.0318 ms
+2026-07-31 12:59:19.935 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:19.936 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:20.920 +05:30 [INF] Received HTTP response headers after 983.9215ms - 200
+2026-07-31 12:59:20.920 +05:30 [INF] End processing HTTP request after 985.0905ms - 200
+2026-07-31 12:59:20.920 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:20.920 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:21.773 +05:30 [INF] Received HTTP response headers after 852.3978ms - 200
+2026-07-31 12:59:21.773 +05:30 [INF] End processing HTTP request after 852.9195ms - 200
+2026-07-31 12:59:21.774 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:21.774 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:22.171 +05:30 [INF] Received HTTP response headers after 396.92ms - 200
+2026-07-31 12:59:22.171 +05:30 [INF] End processing HTTP request after 397.3915ms - 200
+2026-07-31 12:59:22.172 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:22.172 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:22.487 +05:30 [INF] Received HTTP response headers after 315.5534ms - 200
+2026-07-31 12:59:22.488 +05:30 [INF] End processing HTTP request after 316.1809ms - 200
+2026-07-31 12:59:22.878 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 2944.8570 ms
+2026-07-31 12:59:24.979 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:24.979 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:25.845 +05:30 [INF] Received HTTP response headers after 865.8116ms - 200
+2026-07-31 12:59:25.845 +05:30 [INF] End processing HTTP request after 866.1913ms - 200
+2026-07-31 12:59:26.194 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1215.5695 ms
+2026-07-31 12:59:27.340 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:27.340 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:27.406 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:27.407 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 12:59:28.319 +05:30 [INF] Received HTTP response headers after 979.1189ms - 200
+2026-07-31 12:59:28.319 +05:30 [INF] Received HTTP response headers after 912.3916ms - 200
+2026-07-31 12:59:28.320 +05:30 [INF] End processing HTTP request after 979.8453ms - 200
+2026-07-31 12:59:28.320 +05:30 [INF] End processing HTTP request after 913.1515ms - 200
+2026-07-31 12:59:28.321 +05:30 [INF] HTTP GET /api/issues responded 200 in 915.4095 ms
+2026-07-31 12:59:28.489 +05:30 [INF] HTTP GET /api/issues responded 200 in 1150.2425 ms
+2026-07-31 12:59:44.383 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:44.383 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:44.848 +05:30 [INF] Received HTTP response headers after 465.0599ms - 200
+2026-07-31 12:59:44.856 +05:30 [INF] End processing HTTP request after 473.1189ms - 200
+2026-07-31 12:59:44.861 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:44.862 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:45.187 +05:30 [INF] Received HTTP response headers after 325.0588ms - 200
+2026-07-31 12:59:45.187 +05:30 [INF] End processing HTTP request after 326.0258ms - 200
+2026-07-31 12:59:45.188 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:45.188 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:45.932 +05:30 [INF] Received HTTP response headers after 743.482ms - 200
+2026-07-31 12:59:45.932 +05:30 [INF] End processing HTTP request after 744.3195ms - 200
+2026-07-31 12:59:45.938 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:45.939 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:46.605 +05:30 [INF] Received HTTP response headers after 665.505ms - 204
+2026-07-31 12:59:46.605 +05:30 [INF] End processing HTTP request after 666.7635ms - 204
+2026-07-31 12:59:46.605 +05:30 [INF] Start processing HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:46.613 +05:30 [INF] Sending HTTP request POST https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:47.130 +05:30 [INF] Received HTTP response headers after 516.7441ms - 201
+2026-07-31 12:59:47.130 +05:30 [INF] End processing HTTP request after 524.7591ms - 201
+2026-07-31 12:59:47.131 +05:30 [INF] HTTP POST /api/issues/00000000-0000-0000-0000-000014000000/transition responded 204 in 2748.5937 ms
+2026-07-31 12:59:48.157 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.157 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.160 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.160 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.708 +05:30 [INF] Received HTTP response headers after 547.5155ms - 200
+2026-07-31 12:59:48.708 +05:30 [INF] Received HTTP response headers after 550.2377ms - 200
+2026-07-31 12:59:48.712 +05:30 [INF] End processing HTTP request after 551.6201ms - 200
+2026-07-31 12:59:48.712 +05:30 [INF] End processing HTTP request after 554.9487ms - 200
+2026-07-31 12:59:48.714 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.714 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.748 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:48.748 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:49.023 +05:30 [INF] Received HTTP response headers after 274.6628ms - 200
+2026-07-31 12:59:49.023 +05:30 [INF] End processing HTTP request after 275.277ms - 200
+2026-07-31 12:59:49.024 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:49.024 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:49.408 +05:30 [INF] Received HTTP response headers after 384.4152ms - 200
+2026-07-31 12:59:49.409 +05:30 [INF] End processing HTTP request after 385.0105ms - 200
+2026-07-31 12:59:49.411 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:49.411 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:49.432 +05:30 [INF] Received HTTP response headers after 717.9247ms - 200
+2026-07-31 12:59:49.432 +05:30 [INF] End processing HTTP request after 718.542ms - 200
+2026-07-31 12:59:49.432 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:49.432 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:49.747 +05:30 [INF] Received HTTP response headers after 336.352ms - 200
+2026-07-31 12:59:49.748 +05:30 [INF] End processing HTTP request after 337.02ms - 200
+2026-07-31 12:59:49.748 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1589.1036 ms
+2026-07-31 12:59:49.760 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:49.761 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:50.125 +05:30 [INF] Received HTTP response headers after 364.1176ms - 200
+2026-07-31 12:59:50.125 +05:30 [INF] End processing HTTP request after 365.0099ms - 200
+2026-07-31 12:59:50.155 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:50.155 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 12:59:50.177 +05:30 [INF] Received HTTP response headers after 744.4357ms - 200
+2026-07-31 12:59:50.177 +05:30 [INF] End processing HTTP request after 745.116ms - 200
+2026-07-31 12:59:50.179 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 2023.4214 ms
+2026-07-31 12:59:50.883 +05:30 [INF] Received HTTP response headers after 727.2855ms - 200
+2026-07-31 12:59:50.883 +05:30 [INF] End processing HTTP request after 728.0292ms - 200
+2026-07-31 12:59:50.883 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:50.884 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 12:59:51.681 +05:30 [INF] Received HTTP response headers after 797.661ms - 200
+2026-07-31 12:59:51.682 +05:30 [INF] End processing HTTP request after 798.2536ms - 200
+2026-07-31 12:59:51.682 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:51.683 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 12:59:51.961 +05:30 [INF] Received HTTP response headers after 278.2367ms - 200
+2026-07-31 12:59:51.961 +05:30 [INF] End processing HTTP request after 278.8795ms - 200
+2026-07-31 12:59:51.962 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 2202.4257 ms
+2026-07-31 13:00:02.495 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:02.495 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:03.061 +05:30 [INF] Received HTTP response headers after 566.3503ms - 200
+2026-07-31 13:00:03.062 +05:30 [INF] End processing HTTP request after 566.8364ms - 200
+2026-07-31 13:00:03.281 +05:30 [INF] HTTP GET /api/issues responded 200 in 787.2808 ms
+2026-07-31 13:00:10.560 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:10.560 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:11.140 +05:30 [INF] Received HTTP response headers after 579.1409ms - 200
+2026-07-31 13:00:11.140 +05:30 [INF] End processing HTTP request after 579.7767ms - 200
+2026-07-31 13:00:11.271 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 711.2433 ms
+2026-07-31 13:00:12.497 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:12.497 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:00:12.990 +05:30 [INF] Received HTTP response headers after 492.2441ms - 200
+2026-07-31 13:00:12.990 +05:30 [INF] End processing HTTP request after 492.8454ms - 200
+2026-07-31 13:00:13.031 +05:30 [INF] HTTP GET /api/issues responded 200 in 535.2573 ms
+2026-07-31 13:00:18.027 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:00:18.027 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:00:18.027 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:00:18.027 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:00:18.034 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:00:18.035 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:00:18.353 +05:30 [INF] Received HTTP response headers after 325.4749ms - 200
+2026-07-31 13:00:18.353 +05:30 [INF] End processing HTTP request after 326.0272ms - 200
+2026-07-31 13:00:18.357 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 339.5962 ms
+2026-07-31 13:00:18.406 +05:30 [INF] Received HTTP response headers after 378.5258ms - 200
+2026-07-31 13:00:18.406 +05:30 [INF] End processing HTTP request after 378.9728ms - 200
+2026-07-31 13:00:18.409 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 391.9023 ms
+2026-07-31 13:00:18.778 +05:30 [INF] HTTP GET /api/users responded 200 in 13.8068 ms
+2026-07-31 13:00:18.854 +05:30 [INF] Received HTTP response headers after 819.0035ms - 200
+2026-07-31 13:00:18.854 +05:30 [INF] End processing HTTP request after 819.4155ms - 200
+2026-07-31 13:00:18.858 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 830.3666 ms
+2026-07-31 13:00:29.482 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:29.482 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:29.482 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:29.482 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:29.867 +05:30 [INF] Received HTTP response headers after 384.7078ms - 200
+2026-07-31 13:00:29.868 +05:30 [INF] End processing HTTP request after 385.495ms - 200
+2026-07-31 13:00:29.937 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:29.937 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:30.372 +05:30 [INF] Received HTTP response headers after 889.7562ms - 200
+2026-07-31 13:00:30.372 +05:30 [INF] End processing HTTP request after 890.3605ms - 200
+2026-07-31 13:00:30.375 +05:30 [INF] Received HTTP response headers after 437.4488ms - 200
+2026-07-31 13:00:30.375 +05:30 [INF] End processing HTTP request after 438.1848ms - 200
+2026-07-31 13:00:30.376 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:00:30.376 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:00:30.419 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:30.420 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:00:30.697 +05:30 [INF] Received HTTP response headers after 320.7425ms - 200
+2026-07-31 13:00:30.698 +05:30 [INF] End processing HTTP request after 321.8828ms - 200
+2026-07-31 13:00:30.698 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 13:00:30.698 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/transitions
+2026-07-31 13:00:30.794 +05:30 [INF] Received HTTP response headers after 373.6504ms - 200
+2026-07-31 13:00:30.794 +05:30 [INF] End processing HTTP request after 374.9246ms - 200
+2026-07-31 13:00:30.828 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:00:30.829 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:00:30.976 +05:30 [INF] Received HTTP response headers after 277.2095ms - 200
+2026-07-31 13:00:30.976 +05:30 [INF] End processing HTTP request after 277.994ms - 200
+2026-07-31 13:00:30.984 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000/transitions responded 200 in 1502.3298 ms
+2026-07-31 13:00:31.167 +05:30 [INF] Received HTTP response headers after 338.0337ms - 200
+2026-07-31 13:00:31.167 +05:30 [INF] End processing HTTP request after 338.7808ms - 200
+2026-07-31 13:00:31.168 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1686.8238 ms
+2026-07-31 13:00:39.323 +05:30 [INF] HTTP PUT /api/issues/00000000-0000-0000-0000-000014000000 responded 405 in 0.9693 ms
+2026-07-31 13:00:45.414 +05:30 [INF] HTTP PUT /api/issues/00000000-0000-0000-0000-000014000000 responded 405 in 0.4408 ms
+2026-07-31 13:00:52.788 +05:30 [INF] HTTP PUT /api/issues/00000000-0000-0000-0000-000014000000 responded 405 in 0.3197 ms
+2026-07-31 13:01:05.458 +05:30 [INF] HTTP PUT /api/issues/00000000-0000-0000-0000-000014000000 responded 405 in 0.6253 ms
+2026-07-31 13:26:01.517 +05:30 [INF] HTTP PUT /api/issues/00000000-0000-0000-0000-000014000000 responded 405 in 2.9754 ms
+2026-07-31 13:26:07.712 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:26:07.712 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:26:07.712 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:26:07.712 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:26:07.712 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:07.712 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:07.712 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:26:07.712 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:26:08.337 +05:30 [INF] Received HTTP response headers after 625.2002ms - 200
+2026-07-31 13:26:08.337 +05:30 [INF] End processing HTTP request after 625.5953ms - 200
+2026-07-31 13:26:08.338 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 627.2039 ms
+2026-07-31 13:26:08.773 +05:30 [INF] Received HTTP response headers after 1061.3603ms - 200
+2026-07-31 13:26:08.774 +05:30 [INF] End processing HTTP request after 1062.1075ms - 200
+2026-07-31 13:26:08.774 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 1063.6465 ms
+2026-07-31 13:26:08.787 +05:30 [INF] Received HTTP response headers after 1075.3012ms - 200
+2026-07-31 13:26:08.787 +05:30 [INF] End processing HTTP request after 1075.7275ms - 200
+2026-07-31 13:26:08.798 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:08.799 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:08.983 +05:30 [INF] Received HTTP response headers after 1271.4671ms - 200
+2026-07-31 13:26:08.984 +05:30 [INF] End processing HTTP request after 1272.1485ms - 200
+2026-07-31 13:26:08.985 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 1274.0603 ms
+2026-07-31 13:26:09.096 +05:30 [INF] Received HTTP response headers after 296.9763ms - 200
+2026-07-31 13:26:09.096 +05:30 [INF] End processing HTTP request after 297.4041ms - 200
+2026-07-31 13:26:09.096 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:26:09.096 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:26:09.833 +05:30 [INF] Received HTTP response headers after 736.7964ms - 200
+2026-07-31 13:26:09.833 +05:30 [INF] End processing HTTP request after 737.2013ms - 200
+2026-07-31 13:26:09.836 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 2126.9013 ms
+2026-07-31 13:26:53.843 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:53.843 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:54.224 +05:30 [INF] Received HTTP response headers after 380.7926ms - 200
+2026-07-31 13:26:54.224 +05:30 [INF] End processing HTTP request after 381.1906ms - 200
+2026-07-31 13:26:54.273 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:54.273 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:26:54.600 +05:30 [INF] Received HTTP response headers after 326.5113ms - 200
+2026-07-31 13:26:54.600 +05:30 [INF] End processing HTTP request after 326.8022ms - 200
+2026-07-31 13:26:54.600 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:26:54.600 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:26:55.365 +05:30 [INF] Received HTTP response headers after 764.8507ms - 200
+2026-07-31 13:26:55.365 +05:30 [INF] End processing HTTP request after 765.2956ms - 200
+2026-07-31 13:26:55.366 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1523.4832 ms
+2026-07-31 13:28:35.603 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:28:35.603 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:28:35.604 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:28:35.604 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:28:35.604 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:28:35.604 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:28:35.608 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:28:35.609 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:28:36.270 +05:30 [INF] Received HTTP response headers after 665.2415ms - 200
+2026-07-31 13:28:36.270 +05:30 [INF] End processing HTTP request after 665.5475ms - 200
+2026-07-31 13:28:36.270 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 666.1781 ms
+2026-07-31 13:28:36.312 +05:30 [INF] Received HTTP response headers after 708.6774ms - 200
+2026-07-31 13:28:36.312 +05:30 [INF] End processing HTTP request after 709.4488ms - 200
+2026-07-31 13:28:36.376 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:28:36.376 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20?*
+2026-07-31 13:28:36.462 +05:30 [INF] Received HTTP response headers after 858.7289ms - 200
+2026-07-31 13:28:36.463 +05:30 [INF] End processing HTTP request after 859.3674ms - 200
+2026-07-31 13:28:36.463 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 860.0608 ms
+2026-07-31 13:28:36.544 +05:30 [INF] Received HTTP response headers after 935.4893ms - 200
+2026-07-31 13:28:36.544 +05:30 [INF] End processing HTTP request after 935.9236ms - 200
+2026-07-31 13:28:36.544 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 936.5923 ms
+2026-07-31 13:28:36.693 +05:30 [INF] Received HTTP response headers after 316.1094ms - 200
+2026-07-31 13:28:36.693 +05:30 [INF] End processing HTTP request after 316.7796ms - 200
+2026-07-31 13:28:36.693 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:28:36.693 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-20/comment
+2026-07-31 13:28:37.459 +05:30 [INF] Received HTTP response headers after 765.7664ms - 200
+2026-07-31 13:28:37.459 +05:30 [INF] End processing HTTP request after 766.3189ms - 200
+2026-07-31 13:28:37.460 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000014000000 responded 200 in 1858.7194 ms
+2026-07-31 13:35:47.776 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:35:47.776 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:17.781 +05:30 [WRN] SearchIssues failed for JQL: project = FIT ORDER BY created DESC
+System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FIT.Infrastructure.Services.JiraService.SearchIssuesAsync(String jql, Int32 startAt, Int32 maxResults, CancellationToken cancellationToken)
+2026-07-31 13:36:17.805 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 30031.2964 ms
+2026-07-31 13:36:23.143 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:23.143 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:43.324 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:43.325 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:53.148 +05:30 [WRN] SearchIssues failed for JQL: project = FIT ORDER BY created DESC
+System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0()
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FIT.Infrastructure.Services.JiraService.SearchIssuesAsync(String jql, Int32 startAt, Int32 maxResults, CancellationToken cancellationToken)
+2026-07-31 13:36:53.153 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 30010.7182 ms
+2026-07-31 13:36:55.966 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:55.967 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:36:56.720 +05:30 [INF] Received HTTP response headers after 753.3132ms - 200
+2026-07-31 13:36:56.720 +05:30 [INF] End processing HTTP request after 753.8582ms - 200
+2026-07-31 13:36:56.927 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 960.8023 ms
+2026-07-31 13:37:00.424 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:37:00.424 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:37:00.893 +05:30 [INF] Received HTTP response headers after 468.4637ms - 200
+2026-07-31 13:37:00.893 +05:30 [INF] End processing HTTP request after 469.0631ms - 200
+2026-07-31 13:37:00.989 +05:30 [INF] HTTP GET /api/issues responded 200 in 565.7248 ms
+2026-07-31 13:37:02.837 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:37:02.837 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:37:02.837 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 13:37:02.837 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 13:37:02.837 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:37:02.837 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 13:37:03.243 +05:30 [INF] Received HTTP response headers after 405.501ms - 200
+2026-07-31 13:37:03.243 +05:30 [INF] End processing HTTP request after 406.3003ms - 200
+2026-07-31 13:37:03.244 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 407.6058 ms
+2026-07-31 13:37:03.663 +05:30 [INF] Received HTTP response headers after 825.7992ms - 200
+2026-07-31 13:37:03.663 +05:30 [INF] End processing HTTP request after 826.237ms - 200
+2026-07-31 13:37:03.666 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 829.7222 ms
+2026-07-31 13:37:03.706 +05:30 [INF] Received HTTP response headers after 869.0273ms - 200
+2026-07-31 13:37:03.706 +05:30 [INF] End processing HTTP request after 869.6383ms - 200
+2026-07-31 13:37:03.707 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 870.2423 ms
+2026-07-31 13:37:13.328 +05:30 [WRN] SearchIssues failed for JQL: project = FIT ORDER BY created DESC
+System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0()
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FIT.Infrastructure.Services.JiraService.SearchIssuesAsync(String jql, Int32 startAt, Int32 maxResults, CancellationToken cancellationToken)
+2026-07-31 13:37:13.341 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 30017.1167 ms
+2026-07-31 13:38:53.244 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:38:53.244 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:38:54.492 +05:30 [INF] Received HTTP response headers after 1247.8791ms - 200
+2026-07-31 13:38:54.493 +05:30 [INF] End processing HTTP request after 1249.2428ms - 200
+2026-07-31 13:38:54.697 +05:30 [INF] HTTP GET /api/issues responded 200 in 1454.2135 ms
+2026-07-31 13:38:56.137 +05:30 [INF] HTTP GET /api/users responded 200 in 1.4672 ms
+2026-07-31 13:39:02.338 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000002/deactivate responded 204 in 21.1767 ms
+2026-07-31 13:39:02.345 +05:30 [INF] HTTP GET /api/users responded 200 in 0.5981 ms
+2026-07-31 13:39:12.967 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000002/deactivate responded 204 in 9.7615 ms
+2026-07-31 13:39:12.977 +05:30 [INF] HTTP GET /api/users responded 200 in 0.9285 ms
+2026-07-31 13:39:43.520 +05:30 [INF] HTTP POST /api/auth/login responded 200 in 87.8070 ms
+2026-07-31 13:39:43.621 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:39:43.621 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:39:44.154 +05:30 [INF] Received HTTP response headers after 532.7592ms - 200
+2026-07-31 13:39:44.154 +05:30 [INF] End processing HTTP request after 533.1779ms - 200
+2026-07-31 13:39:44.342 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 721.3718 ms
+2026-07-31 13:50:37.254 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:50:37.255 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:50:38.387 +05:30 [INF] Received HTTP response headers after 1131.8231ms - 200
+2026-07-31 13:50:38.388 +05:30 [INF] End processing HTTP request after 1134.5721ms - 200
+2026-07-31 13:50:38.742 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1492.5112 ms
+2026-07-31 13:58:59.477 +05:30 [INF] Application is shutting down...
+2026-07-31 13:59:06.246 +05:30 [WRN] The WebRootPath was not found: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API/wwwroot. Static files may be unavailable.
+2026-07-31 13:59:06.352 +05:30 [INF] Now listening on: http://localhost:5062
+2026-07-31 13:59:06.353 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-31 13:59:06.353 +05:30 [INF] Hosting environment: Production
+2026-07-31 13:59:06.353 +05:30 [INF] Content root path: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API
+2026-07-31 13:59:07.688 +05:30 [INF] HTTP GET /api/health responded 404 in 18.3350 ms
+2026-07-31 13:59:26.876 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:59:26.876 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 13:59:28.219 +05:30 [INF] Received HTTP response headers after 1338.817ms - 200
+2026-07-31 13:59:28.224 +05:30 [INF] End processing HTTP request after 1350.3772ms - 200
+2026-07-31 13:59:28.545 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1747.1582 ms
+2026-07-31 13:59:39.563 +05:30 [INF] HTTP POST /api/auth/login responded 200 in 33.2681 ms
+2026-07-31 13:59:42.533 +05:30 [INF] HTTP GET /api/users responded 200 in 15.7046 ms
+2026-07-31 13:59:46.453 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000003/deactivate responded 204 in 16.3191 ms
+2026-07-31 13:59:46.463 +05:30 [INF] HTTP GET /api/users responded 200 in 1.1534 ms
+2026-07-31 14:00:38.582 +05:30 [INF] HTTP GET /api/users responded 200 in 1.2642 ms
+2026-07-31 14:01:06.312 +05:30 [INF] Application is shutting down...
+2026-07-31 14:01:17.148 +05:30 [WRN] The WebRootPath was not found: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API/wwwroot. Static files may be unavailable.
+2026-07-31 14:01:17.326 +05:30 [INF] Now listening on: http://localhost:5062
+2026-07-31 14:01:17.328 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-31 14:01:17.328 +05:30 [INF] Hosting environment: Production
+2026-07-31 14:01:17.328 +05:30 [INF] Content root path: /Users/lalit.tak/Documents/Workspace/FIT/src/FIT.API
+2026-07-31 14:01:18.892 +05:30 [INF] HTTP GET /api/users responded 401 in 189.7005 ms
+2026-07-31 14:01:46.336 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000003/activate responded 204 in 73.9695 ms
+2026-07-31 14:01:46.375 +05:30 [INF] HTTP GET /api/users responded 200 in 28.5105 ms
+2026-07-31 14:01:50.269 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000003/deactivate responded 204 in 15.0369 ms
+2026-07-31 14:01:50.278 +05:30 [INF] HTTP GET /api/users responded 200 in 1.1692 ms
+2026-07-31 14:01:53.626 +05:30 [INF] HTTP PUT /api/users/00000001-0000-0000-0000-000000000003/activate responded 204 in 6.2720 ms
+2026-07-31 14:01:53.640 +05:30 [INF] HTTP GET /api/users responded 200 in 1.0575 ms
+2026-07-31 14:01:54.815 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:01:54.817 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:01:55.701 +05:30 [INF] Received HTTP response headers after 880.1865ms - 200
+2026-07-31 14:01:55.708 +05:30 [INF] End processing HTTP request after 918.8177ms - 200
+2026-07-31 14:01:55.962 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1193.4175 ms
+2026-07-31 14:02:29.878 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:02:29.879 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:02:30.765 +05:30 [INF] Received HTTP response headers after 885.935ms - 200
+2026-07-31 14:02:30.766 +05:30 [INF] End processing HTTP request after 887.683ms - 200
+2026-07-31 14:02:30.993 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1117.1128 ms
+2026-07-31 14:03:24.654 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:03:24.655 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:03:25.582 +05:30 [INF] Received HTTP response headers after 927.1329ms - 200
+2026-07-31 14:03:25.583 +05:30 [INF] End processing HTTP request after 929.4372ms - 200
+2026-07-31 14:03:25.824 +05:30 [INF] HTTP GET /api/issues responded 200 in 1347.9078 ms
+2026-07-31 14:03:35.736 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:35.736 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:35.736 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:35.736 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:36.210 +05:30 [INF] Received HTTP response headers after 473.521ms - 200
+2026-07-31 14:03:36.210 +05:30 [INF] End processing HTTP request after 474.1165ms - 200
+2026-07-31 14:03:36.222 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:36.222 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:36.327 +05:30 [INF] Received HTTP response headers after 590.8083ms - 200
+2026-07-31 14:03:36.328 +05:30 [INF] End processing HTTP request after 591.4853ms - 200
+2026-07-31 14:03:36.329 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:36.329 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19?*
+2026-07-31 14:03:36.563 +05:30 [INF] Received HTTP response headers after 341.3981ms - 200
+2026-07-31 14:03:36.564 +05:30 [INF] End processing HTTP request after 342.263ms - 200
+2026-07-31 14:03:36.566 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/comment
+2026-07-31 14:03:36.566 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/comment
+2026-07-31 14:03:36.701 +05:30 [INF] Received HTTP response headers after 372.2962ms - 200
+2026-07-31 14:03:36.702 +05:30 [INF] End processing HTTP request after 373.2851ms - 200
+2026-07-31 14:03:36.703 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/comment
+2026-07-31 14:03:36.703 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/comment
+2026-07-31 14:03:37.351 +05:30 [INF] Received HTTP response headers after 785.1133ms - 200
+2026-07-31 14:03:37.352 +05:30 [INF] End processing HTTP request after 785.8306ms - 200
+2026-07-31 14:03:37.386 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/transitions
+2026-07-31 14:03:37.386 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/FIT-19/transitions
+2026-07-31 14:03:37.394 +05:30 [INF] Received HTTP response headers after 690.365ms - 200
+2026-07-31 14:03:37.394 +05:30 [INF] End processing HTTP request after 690.984ms - 200
+2026-07-31 14:03:37.411 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000013000000 responded 200 in 1689.9060 ms
+2026-07-31 14:03:38.275 +05:30 [INF] Received HTTP response headers after 888.786ms - 200
+2026-07-31 14:03:38.275 +05:30 [INF] End processing HTTP request after 889.4207ms - 200
+2026-07-31 14:03:38.279 +05:30 [INF] HTTP GET /api/issues/00000000-0000-0000-0000-000013000000/transitions responded 200 in 2555.8866 ms
+2026-07-31 14:03:56.801 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 14:03:56.801 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 14:03:56.802 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 14:03:56.802 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 14:03:56.805 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 14:03:56.805 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 14:03:57.368 +05:30 [INF] Received HTTP response headers after 565.7287ms - 200
+2026-07-31 14:03:57.368 +05:30 [INF] End processing HTTP request after 567.3068ms - 200
+2026-07-31 14:03:57.373 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 580.0624 ms
+2026-07-31 14:03:57.769 +05:30 [INF] Received HTTP response headers after 966.6655ms - 200
+2026-07-31 14:03:57.769 +05:30 [INF] End processing HTTP request after 967.9439ms - 200
+2026-07-31 14:03:57.771 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 977.8890 ms
+2026-07-31 14:03:57.972 +05:30 [INF] Received HTTP response headers after 1166.1571ms - 200
+2026-07-31 14:03:57.972 +05:30 [INF] End processing HTTP request after 1166.8978ms - 200
+2026-07-31 14:03:57.979 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 1185.9208 ms
+2026-07-31 14:04:19.170 +05:30 [INF] HTTP GET /api/users responded 200 in 1.3910 ms
+2026-07-31 14:04:38.612 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:04:38.613 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:04:39.642 +05:30 [INF] Received HTTP response headers after 1029.0697ms - 200
+2026-07-31 14:04:39.642 +05:30 [INF] End processing HTTP request after 1029.7775ms - 200
+2026-07-31 14:04:39.844 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 1234.2491 ms
+2026-07-31 14:04:45.792 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:04:45.793 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:04:46.695 +05:30 [INF] Received HTTP response headers after 902.1054ms - 200
+2026-07-31 14:04:46.696 +05:30 [INF] End processing HTTP request after 903.3044ms - 200
+2026-07-31 14:04:46.988 +05:30 [INF] HTTP GET /api/issues responded 200 in 1198.1747 ms
+2026-07-31 14:42:55.124 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:42:55.125 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/search/jql?*
+2026-07-31 14:42:55.790 +05:30 [INF] Received HTTP response headers after 664.361ms - 200
+2026-07-31 14:42:55.790 +05:30 [INF] End processing HTTP request after 666.5037ms - 200
+2026-07-31 14:42:55.887 +05:30 [INF] HTTP GET /api/dashboard responded 200 in 769.9889 ms
+2026-07-31 14:45:05.711 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 14:45:05.711 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes
+2026-07-31 14:45:05.711 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 14:45:05.711 +05:30 [INF] Start processing HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 14:45:05.715 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/priority
+2026-07-31 14:45:05.715 +05:30 [INF] Sending HTTP request GET https://grampower.atlassian.net/rest/api/3/issue/createmeta/FIT/issuetypes/11333
+2026-07-31 14:45:06.182 +05:30 [INF] Received HTTP response headers after 467.5044ms - 200
+2026-07-31 14:45:06.183 +05:30 [INF] End processing HTTP request after 471.9419ms - 200
+2026-07-31 14:45:06.184 +05:30 [INF] HTTP GET /api/jira/priorities responded 200 in 473.8393 ms
+2026-07-31 14:45:06.220 +05:30 [INF] Received HTTP response headers after 508.288ms - 200
+2026-07-31 14:45:06.220 +05:30 [INF] End processing HTTP request after 509.0679ms - 200
+2026-07-31 14:45:06.220 +05:30 [INF] HTTP GET /api/jira/issue-types responded 200 in 510.7162 ms
+2026-07-31 14:45:06.955 +05:30 [INF] Received HTTP response headers after 1240.09ms - 200
+2026-07-31 14:45:06.955 +05:30 [INF] End processing HTTP request after 1244.6408ms - 200
+2026-07-31 14:45:06.960 +05:30 [INF] HTTP GET /api/jira/field-options responded 200 in 1250.0195 ms
+2026-07-31 14:46:01.229 +05:30 [INF] HTTP GET /api/users responded 200 in 0.8870 ms
+2026-07-31 14:49:21.046 +05:30 [INF] HTTP GET /api/users responded 200 in 1.0407 ms
