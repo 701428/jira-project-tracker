@@ -1,0 +1,6 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "dotnet FIT.API.dll"
+healthcheckPath = "/api/health"

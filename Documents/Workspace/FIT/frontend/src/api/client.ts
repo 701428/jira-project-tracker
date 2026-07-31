@@ -3,7 +3,7 @@ import axios, { AxiosInstance, InternalAxiosRequestConfig } from 'axios';
 const AUTH_TOKEN_KEY = 'fit_auth_token';
 
 export const apiClient: AxiosInstance = axios.create({
-  baseURL: '/api',
+  baseURL: `${import.meta.env.VITE_API_URL ?? ''}/api`,
   headers: {
     'Content-Type': 'application/json',
   },
