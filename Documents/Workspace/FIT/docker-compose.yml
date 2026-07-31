@@ -1,0 +1,46 @@
+version: '3.9'
+
+services:
+  fit-api:
+    build:
+      context: ./src
+      dockerfile: ../docker/Dockerfile.api
+    container_name: fit-api
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:5000
+      - Jira__BaseUrl=https://grampower.atlassian.net
+      - Jira__Email=${JIRA_EMAIL}
+      - Jira__ApiToken=${JIRA_API_TOKEN}
+      - Jira__ProjectKey=FIT
+      - Jwt__Secret=${JWT_SECRET}
+      - Cors__AllowedOrigins__0=http://localhost:3000
+      - Cors__AllowedOrigins__1=http://${VM_HOST:-localhost}:3000
+    volumes:
+      - api_uploads:/app/uploads
+      - api_logs:/app/logs
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5000/api/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  fit-frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfile.frontend
+      args:
+        - VITE_API_URL=
+    container_name: fit-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - fit-api
+
+volumes:
+  api_uploads:
+  api_logs:
