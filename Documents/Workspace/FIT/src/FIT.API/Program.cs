@@ -53,8 +53,11 @@ services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 services.AddAuthorization();
 
 // ── CORS ───────────────────────────────────────────────
+var allowedOrigins = config.GetSection("Cors:AllowedOrigins").Get<string[]>()
+    ?? new[] { "http://localhost:3000" };
 services.AddCors(opt => opt.AddPolicy("FrontendPolicy", p =>
-    p.WithOrigins(config.GetSection("Cors:AllowedOrigins").Get<string[]>() ?? new[] { "http://localhost:3000" })
+    p.WithOrigins(allowedOrigins)
+     .SetIsOriginAllowedToAllowWildcardSubdomains()
      .AllowAnyHeader()
      .AllowAnyMethod()
      .AllowCredentials()));
